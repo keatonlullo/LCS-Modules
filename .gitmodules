@@ -1,0 +1,4 @@
+[submodule "shared-build-tools"]
+    path = shared-build-tools
+    url = https://gitlab.example.com/docs/shared-build-tools.git
+    branch = main
