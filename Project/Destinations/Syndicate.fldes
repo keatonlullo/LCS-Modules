@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="core-studio-dev50.dev.bravais.com"
+  User="MyAccountId"
+  Password=""
+  Directory="api/v3/authenticate"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="syndicate"
+  ClickUrl="https://core-studio-dev50.dev.bravais.com"
+  Folder="Keaton"></CatapultDestination>
