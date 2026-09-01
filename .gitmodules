@@ -1,4 +1,6 @@
 [submodule "shared-build-tools"]
-    path = shared-build-tools
-    url = https://gitlab.example.com/docs/shared-build-tools.git
+	path = shared-build-tools
+	url = https://github.com/keatonlullo/LCS-Modules.git
     branch = main
+
+
